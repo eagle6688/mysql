@@ -1,1 +1,1 @@
-show status like 'table%';
+show status;
